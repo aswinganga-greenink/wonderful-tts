@@ -38,11 +38,6 @@ Save packages to requirements.txt:
 pip freeze > requirements.txt
 ```
 
-Install from requirements.txt:
-```cmd
-pip install -r requirements.txt
-```
-
 ## Deactivating
 
 When you're done:
