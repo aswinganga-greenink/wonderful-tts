@@ -30,12 +30,7 @@ When activated, you'll see `(venv)` at the beginning of your command prompt.
 
 Install packages as usual:
 ```cmd
-pip install package-name
-```
-
-Example:
-```cmd
-pip install requests numpy pandas
+pip install -r requirements.txt
 ```
 
 Save packages to requirements.txt:
